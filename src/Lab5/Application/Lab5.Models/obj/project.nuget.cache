@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "hBMPR4YnqCZehlBa4+gfg3loFIaRtA3PfHzQ5i7qCgozpdQWSAfUk0LDjJK45J40CU3Jl7zMtMNB3+ccpnag9A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\egora\\OOP_labs\\Kferon2\\src\\Lab5\\Application\\Lab5.Models\\Lab5.Models.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\egora\\.nuget\\packages\\sourcekit.analyzers.collections\\1.0.4\\sourcekit.analyzers.collections.1.0.4.nupkg.sha512",
+    "C:\\Users\\egora\\.nuget\\packages\\sourcekit.analyzers.enumerable\\1.0.4\\sourcekit.analyzers.enumerable.1.0.4.nupkg.sha512",
+    "C:\\Users\\egora\\.nuget\\packages\\sourcekit.analyzers.memberaccessibility\\1.0.4\\sourcekit.analyzers.memberaccessibility.1.0.4.nupkg.sha512",
+    "C:\\Users\\egora\\.nuget\\packages\\sourcekit.analyzers.nullable\\1.0.4\\sourcekit.analyzers.nullable.1.0.4.nupkg.sha512",
+    "C:\\Users\\egora\\.nuget\\packages\\sourcekit.analyzers.properties\\1.0.4\\sourcekit.analyzers.properties.1.0.4.nupkg.sha512",
+    "C:\\Users\\egora\\.nuget\\packages\\stylecop.analyzers\\1.2.0-beta.507\\stylecop.analyzers.1.2.0-beta.507.nupkg.sha512",
+    "C:\\Users\\egora\\.nuget\\packages\\stylecop.analyzers.unstable\\1.2.0.507\\stylecop.analyzers.unstable.1.2.0.507.nupkg.sha512"
+  ],
+  "logs": []
+}

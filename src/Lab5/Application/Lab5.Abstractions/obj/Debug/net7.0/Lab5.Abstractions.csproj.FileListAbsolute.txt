@@ -1,0 +1,15 @@
+C:\Users\egora\OOP_labs\Kferon2\src\Lab5\Application\Lab5.Abstractions\bin\Debug\net7.0\Lab5.Abstractions.deps.json
+C:\Users\egora\OOP_labs\Kferon2\src\Lab5\Application\Lab5.Abstractions\bin\Debug\net7.0\Lab5.Abstractions.dll
+C:\Users\egora\OOP_labs\Kferon2\src\Lab5\Application\Lab5.Abstractions\bin\Debug\net7.0\Lab5.Abstractions.pdb
+C:\Users\egora\OOP_labs\Kferon2\src\Lab5\Application\Lab5.Abstractions\bin\Debug\net7.0\Lab5.Models.dll
+C:\Users\egora\OOP_labs\Kferon2\src\Lab5\Application\Lab5.Abstractions\bin\Debug\net7.0\Lab5.Models.pdb
+C:\Users\egora\OOP_labs\Kferon2\src\Lab5\Application\Lab5.Abstractions\obj\Debug\net7.0\Lab5.Abstractions.csproj.AssemblyReference.cache
+C:\Users\egora\OOP_labs\Kferon2\src\Lab5\Application\Lab5.Abstractions\obj\Debug\net7.0\Lab5.Abstractions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\egora\OOP_labs\Kferon2\src\Lab5\Application\Lab5.Abstractions\obj\Debug\net7.0\Lab5.Abstractions.AssemblyInfoInputs.cache
+C:\Users\egora\OOP_labs\Kferon2\src\Lab5\Application\Lab5.Abstractions\obj\Debug\net7.0\Lab5.Abstractions.AssemblyInfo.cs
+C:\Users\egora\OOP_labs\Kferon2\src\Lab5\Application\Lab5.Abstractions\obj\Debug\net7.0\Lab5.Abstractions.csproj.CoreCompileInputs.cache
+C:\Users\egora\OOP_labs\Kferon2\src\Lab5\Application\Lab5.Abstractions\obj\Debug\net7.0\Lab5.Abstractions.csproj.CopyComplete
+C:\Users\egora\OOP_labs\Kferon2\src\Lab5\Application\Lab5.Abstractions\obj\Debug\net7.0\Lab5.Abstractions.dll
+C:\Users\egora\OOP_labs\Kferon2\src\Lab5\Application\Lab5.Abstractions\obj\Debug\net7.0\refint\Lab5.Abstractions.dll
+C:\Users\egora\OOP_labs\Kferon2\src\Lab5\Application\Lab5.Abstractions\obj\Debug\net7.0\Lab5.Abstractions.pdb
+C:\Users\egora\OOP_labs\Kferon2\src\Lab5\Application\Lab5.Abstractions\obj\Debug\net7.0\ref\Lab5.Abstractions.dll

@@ -1,0 +1,17 @@
+C:\Users\egora\OOP_labs\Kferon2\src\Lab5\Infrastructure\bin\Debug\net7.0\Infrastructure.deps.json
+C:\Users\egora\OOP_labs\Kferon2\src\Lab5\Infrastructure\bin\Debug\net7.0\Infrastructure.dll
+C:\Users\egora\OOP_labs\Kferon2\src\Lab5\Infrastructure\bin\Debug\net7.0\Infrastructure.pdb
+C:\Users\egora\OOP_labs\Kferon2\src\Lab5\Infrastructure\bin\Debug\net7.0\Lab5.Abstractions.dll
+C:\Users\egora\OOP_labs\Kferon2\src\Lab5\Infrastructure\bin\Debug\net7.0\Lab5.Models.dll
+C:\Users\egora\OOP_labs\Kferon2\src\Lab5\Infrastructure\bin\Debug\net7.0\Lab5.Abstractions.pdb
+C:\Users\egora\OOP_labs\Kferon2\src\Lab5\Infrastructure\bin\Debug\net7.0\Lab5.Models.pdb
+C:\Users\egora\OOP_labs\Kferon2\src\Lab5\Infrastructure\obj\Debug\net7.0\Infrastructure.csproj.AssemblyReference.cache
+C:\Users\egora\OOP_labs\Kferon2\src\Lab5\Infrastructure\obj\Debug\net7.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\egora\OOP_labs\Kferon2\src\Lab5\Infrastructure\obj\Debug\net7.0\Infrastructure.AssemblyInfoInputs.cache
+C:\Users\egora\OOP_labs\Kferon2\src\Lab5\Infrastructure\obj\Debug\net7.0\Infrastructure.AssemblyInfo.cs
+C:\Users\egora\OOP_labs\Kferon2\src\Lab5\Infrastructure\obj\Debug\net7.0\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\egora\OOP_labs\Kferon2\src\Lab5\Infrastructure\obj\Debug\net7.0\Infrastructure.csproj.CopyComplete
+C:\Users\egora\OOP_labs\Kferon2\src\Lab5\Infrastructure\obj\Debug\net7.0\Infrastructure.dll
+C:\Users\egora\OOP_labs\Kferon2\src\Lab5\Infrastructure\obj\Debug\net7.0\refint\Infrastructure.dll
+C:\Users\egora\OOP_labs\Kferon2\src\Lab5\Infrastructure\obj\Debug\net7.0\Infrastructure.pdb
+C:\Users\egora\OOP_labs\Kferon2\src\Lab5\Infrastructure\obj\Debug\net7.0\ref\Infrastructure.dll
